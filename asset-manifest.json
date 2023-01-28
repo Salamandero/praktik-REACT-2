@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/praktik-REACT-2/static/css/main.7acaea2f.css",
+    "main.js": "/praktik-REACT-2/static/js/main.5008abf8.js",
+    "index.html": "/praktik-REACT-2/index.html",
+    "main.7acaea2f.css.map": "/praktik-REACT-2/static/css/main.7acaea2f.css.map",
+    "main.5008abf8.js.map": "/praktik-REACT-2/static/js/main.5008abf8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.5008abf8.js"
+  ]
+}
